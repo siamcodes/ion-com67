@@ -1,0 +1,7 @@
+{
+  "name": "ion-com67",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
